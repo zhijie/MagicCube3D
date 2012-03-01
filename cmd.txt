@@ -1,0 +1,19 @@
+#Cross:
+	#B'U2z'B'U2z'B2U2z'z'B'U2z'z'z'z'B2U2z'z'z'z'#
+Rotate to bottom:
+	#x'#
+Restore Corners of First Layer:
+	#yU2yRUR'yyyU2y2URU'R'yyyUy2RUR'd'URU'R'#
+Restore Edges of Second Layer:
+	#y'R'U'R'U'R'URURyyy'R'U'R'U'R'URURyyy'RURURU'R'U'R'yyyd'y'RURURU'R'U'R'#
+Buil Cross On Top Aspect:
+	##
+Match Top Cross:
+	#UUy'UUy'UUUy'(RU2R')(U'RU'R')U'#
+Put Back Top Corners:
+	#y2L'URU'LUR'U'#
+Restore Top Corners:
+	#yF'RFR'F'RFR'UF'RFR'F'RFR'UF'RFR'F'RFR'UU#
+
+Step Number:
+	116#
